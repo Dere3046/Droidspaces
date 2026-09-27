@@ -9,3 +9,6 @@
 	path = external/socketd
 	url = https://github.com/Droidspaces/socketd.git
 	branch = main
+[submodule "Kern"]
+	path = Kern
+	url = git@github.com:Dere3046/_patchHarmony.git
